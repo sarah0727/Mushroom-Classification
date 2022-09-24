@@ -1,2 +1,2 @@
 # Mushroom-Classification
-This is an Machine Learning Project which classifies whether the mushroom is poisonous or edible. 
+Among the many nutrients found in mushrooms, they are an important part of our diet. We must distinguish poisonous mushrooms from eatable mushrooms because most mushrooms are poisonous (inedible). For the classification of mushrooms as edible or not, machine learning techniques such as naive Bayes, decision trees, and Random Forest Classifier are applied. There is limited research on mushroom classification. In comparison to other techniques, the Classifier model outperforms them by 94%. 
